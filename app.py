@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from tansformers import pipeline
+from transformers import pipeline
 
 ## create a new FASTAPI app instance 
 app=FastAPI ( )
